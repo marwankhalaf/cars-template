@@ -10,6 +10,8 @@
     --outline-hover:.2rem solid var(--black);
 }
 
+/* start style */
+
 *{
     font-family: 'Poppins', sans-serif;
     margin:0; padding:0;
